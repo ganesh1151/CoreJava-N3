@@ -1,4 +1,4 @@
-package org.tcsif.jumping;
+package org.tnsif.jumping;
 
 
 //to demonstrate example on "Break Statement"
