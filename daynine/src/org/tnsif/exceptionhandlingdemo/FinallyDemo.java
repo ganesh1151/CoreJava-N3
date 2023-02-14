@@ -1,4 +1,4 @@
-package exceptionhandlingdemo;
+package org.tnsif.exceptionhandlingdemo;
 //program to demonstrate on when finally block is not executed
 
 public class FinallyDemo {

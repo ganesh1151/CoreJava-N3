@@ -1,4 +1,4 @@
-package exceptionhandlingdemo;
+package org.tnsif.exceptionhandlingdemo;
 
 public class ArrayIndexOutOfBountExceptionDemo {
 

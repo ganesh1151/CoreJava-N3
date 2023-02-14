@@ -1,4 +1,4 @@
-package exceptionhandlingdemo;
+package org.tnsif.exceptionhandlingdemo;
 //program to demonstrate on multiple catch block
 import java.util.Scanner;
 
